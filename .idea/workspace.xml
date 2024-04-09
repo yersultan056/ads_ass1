@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f312fce-da07-49fd-a42a-6eb9bcca7b6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adsass1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1.java" afterDir="false" />
+    <list default="true" id="6f312fce-da07-49fd-a42a-6eb9bcca7b6e" name="Changes" comment="1-6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/27cbf733-e596-4d82-b514-5f5889423c8c_Baiseit Beibarys ass.zip.c8c/as7/src/SpiralPrint.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -41,21 +40,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.SpiralPrint.executor": "Run",
     "Application.task1.executor": "Run",
+    "Application.task10.executor": "Run",
     "Application.task2.executor": "Run",
     "Application.task3.executor": "Run",
     "Application.task4.executor": "Run",
     "Application.task5.executor": "Run",
     "Application.task6.executor": "Run",
+    "Application.task7.executor": "Run",
+    "Application.task8.executor": "Run",
+    "Application.task9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/yersik/Desktop/ads",
+    "last_opened_file_path": "C:/Users/yersik/Downloads/Baiseit Beibarys ass/as9",
     "onboarding.tips.debug.path": "C:/Users/yersik/Desktop/adsass1/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SpiralPrint" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpiralPrint" />
+      <module name="adsass1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,7 +85,20 @@
       <option name="presentableId" value="Default" />
       <updated>1712287044502</updated>
     </task>
+    <task id="LOCAL-00001" summary="1-6">
+      <option name="closed" value="true" />
+      <created>1712672782620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712672782621</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
